@@ -1,1 +1,14 @@
 /* Here is your custom css styles. */
+body{
+    background-image: url(/image/A58E52CD1FF31A8E62F5D8F5F424EB63D03E8CB969481A4657474FEB08AB3DEC.jpg);
+      background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+}
+.bg-color{
+    background: #000000;
+    opacity: 0.3;
+}

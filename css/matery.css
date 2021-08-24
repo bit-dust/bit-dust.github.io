@@ -227,7 +227,7 @@ mark {
 
 .card {
     border-radius: 10px;
-    box-shadow: 0 15px 35px rgba(50, 50, 93, .1), 0 5px 15px rgba(0, 0, 0, .07) !important;
+    /*box-shadow: 0 15px 35px rgba(50, 50, 93, .1), 0 5px 15px rgba(0, 0, 0, .07) !important;*/
 }
 
 .card .card-image img {
@@ -267,6 +267,7 @@ mark {
 
 .pd-header {
     margin-top: -64px;
+        /*margin-top: 0px;*/
 }
 
 header .side-nav {
@@ -547,13 +548,13 @@ header .go-back i {
 }
 
 .post-cover {
-    height: 40vh !important;
+    height: 100vh !important;
 }
-
+/*
 .bg-cover:after {
     -webkit-animation: rainbow 60s infinite;
     animation: rainbow 60s infinite;
-}
+}*/
 
 .bg-cover:before,
 .bg-cover:after {
@@ -1002,7 +1003,7 @@ article .article-tags .chip {
 
 /*文章详情样式*/
 #artDetail {
-    margin-top: -60px;
+    /*margin-top: -60px;*/
 }
 
 /* 修改小屏幕下文章详情table样式. */
@@ -1014,7 +1015,7 @@ article .article-tags .chip {
 
 @media only screen and (min-width: 1418px) {
     #artDetail {
-        margin-top: -60px;
+        /*margin-top: -60px;*/
         padding: 0 0.75rem;
     }
 }

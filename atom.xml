@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Bit-Dust</title>
+  
+  
+  <link href="https://bit-dust.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://bit-dust.github.io/"/>
+  <updated>2021-08-21T14:25:22.457Z</updated>
+  <id>https://bit-dust.github.io/</id>
+  
+  <author>
+    <name>BitDust</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://bit-dust.github.io/2021/08/21/1/"/>
+    <id>https://bit-dust.github.io/2021/08/21/1/</id>
+    <published>2021-08-21T14:20:20.000Z</published>
+    <updated>2021-08-21T14:25:22.457Z</updated>
+    
+    <content type="html"><![CDATA[<p>TimeLine 一年好景君须记<br>最是橙黄橘绿时 TimeLine</p><p>这个页面主要是一些记录和思考,显而易见并没有那么的严谨  </p><hr><p>且将新火试新茶,诗酒趁年华  </p><hr><p>由于我没有专门查阅资料,所以这个故事并没那么的严谨<br>在很久以前,树上有一群猴子,后来由于一些原因,一些猴子决定下树,另一部分决定坚持在树上<br>现在我们可以知道,下树的猴子的后代有一部分成为了人类,书上的一部分进了动物园<br>这是一个历史性的时刻,但是我要说的是<br>下书的猴子同样死了很多,树上的猴子也死了很多<br>在我们做一些决定的时候,我们就是猴子:我们并不知道下树还是留下<br>没人知道未来</p><hr><p><a href="/weekly_report/21_07.html">Weekly_Report#21_07</a></p><hr><p><a href="/weekly_report/21_05.html">Weekly_Report#21_05</a></p><hr><p><a href="/weekly_report/20_30.html">Weekly_Report#20_30</a></p><hr><p><a href="/weekly_report/20_29.html">Weekly_Report#20_29</a></p><hr><p><a href="/weekly_report/20_28.html">Weekly_Report#20_28</a></p><hr><p>一个偶然的机会,我回去了一个我以前经常去的小众网站<br>我已经很久不去了,离开的原因是我当年在上面写周报,有人在上面发一些类似24孝的无聊东西,我向管理员反应了这个问题,管理员决定修改首页逻辑,让这些内容所在的节点不在出现在首页<br>导致矛盾的是管理员同样禁止了我的周报节点,我决定自建平台<br>这个博客最初的意义就是写周报,直到今天依然是大量产出周报类似的内容<br>我看着当年我在那个平台产出的一篇篇周报,感慨万千,最终决定向那个网站捐了一笔款.网站管理员一直在做他认为对的事情.</p><p>网站可以回去,数据可以回滚<br>人生不可以啊</p><hr><p>几朵不错的花，有一朵很有人民文学出版社出的红楼梦的封底的黛玉的味道<br><img src="../img/3AC190A5E325636DBA7E4CCC73A6D99404E904CD1EBF0172956E31FD3AA27681.jpg"> <img src="../img/3B0DE0346A59A0A761DABF843C8A5C0708254DF0768BDEE4E7D49A5738893B60.jpg"> <img src="../img/347C5BE571F98D52200B1DC773256251A419429FA7B66BB7AD8D64AFEB78BBE1.jpg"></p><hr><p>关于成为一个Five<br>一个很重要的点就是掌握一些看似解放生产力.实则没有什么用的技能<br>比如把一些娱乐项目推演到极致.然而这些极致的娱乐项目并不会成为生产力项目,提供不了生产力</p><hr><p>大概每个人的一生都会有无数次和敲下F12一样的举动:站在大街上决定了从什么路口走,在门口犹豫什么时候打开又或者直接离开,在某一瞬间去用直觉选择到底怎么办<br>几乎不可能清楚的预测这些行为的意义,在复盘的时候也没有办法清晰的发现到底发生了什么<br>现在我知道了:如果人生之前的岁月里无意间敲下了F12,并且探索了一下F12,会在之后人生里遇到一个随机背景的网站,在遇到自己喜欢的图片时从容不迫地保存<br>而现在,同样没人能够预测这张图片的意义是什么.或许在许多年后会遇到一个人,值得分享</p><p>这个问题让我重新思考了“但行好事,不问前程”.</p><hr><p>我们今天部署了一个更新:网页打开显示的图片会随机更换,一共是5000张图片.毫无疑问,中间有些图片并不太优雅.有趣的是当遇到一些很不错图片时,如果不会使用F12,那就没有什么好办法保存这张图片.或许这就是人生:遇见了,却做不了什么.<br>当然知识改变命运:仔细研究的的话,能找到我们的储存池,可以直接下载5000张图片,然后慢慢探索,找到喜欢的那一张图片.<br>技术也是有用的,可以截图去搜索引擎找.另一个问题就出现了:为了优化网页速度图片是压缩过的,在互联网上也能找到其他的压缩版本.然而它们并不一样,只是看起来很像:在遇见了一些美好事物以后,去追寻往往只能是一个赝品了.<br>人生呵</p><hr><p><a href="/go/2019_2020.html">在高考一周年纪念日思考过去的一年</a></p><hr><p><img src="../img/1A43967F87870C4E2001E9B52637D024973F94870E3FE75EDFC42DA7B9693C7C.jpg"> <img src="../img/022F160885FD5C96360516764DAAD64A1F9D2DF284E4DCEA04B4A71A5D351161.jpg"> <img src="../img/23901202014506B2BB3FC2492167092A9B0AF9931728A83D87E90D4198647BBC.jpg"> <img src="../img/A9FAEBFA304C8E3A5216B6AA52D9C807F2555C58359DFDF191AC65D0EDCB839E.jpg"> <img src="../img/B390CBE13BAB4A3227319DA9CE492F05137142929C8BBFC54908F617E8AB6E76.jpg"> <img src="../img/D2AFAA987E68A33AFE7123245C5BFBE883CB68E07421FFE1E914065D7F0FA18C.jpg"></p><hr><p>Beauty&amp;Productive Forces<br><img src="../img/00E9176C009B575B862859097AE2F915787BE07B4E15F0E3950B9E8D162F7311.jpg"></p><hr><p>标签化思考的人生<br>在我的思维里,标签化思考是一种化简问题的手段,可以有效降低思考量.在某一天,我的老师突然要求每个人给自己贴标签,并且将这些标签上交用于他的研究.对我而言这是一个要命的问题:这是一件我从来不会去做的事情.<br>我的标签是什么呢?<br>一个非常明显的标签是卡尔马克思,卡尔马克思的理论极大震撼了我.在我第一次见到卡尔马克思的著作的时候.我从下午4点看到了凌晨2点,那是一本我在淘宝买的二手书,带给我了一种无比熟悉却又难以表达的对世界的理解.那是我目前人生最值的一次投资.<br>另一个是开放&amp;互联.学会使用互联网,学会使用Google,学会使用维基百科等等等是我个人技能的颠覆性革命.资源的无限量供给必将产生颠覆性变化:在主动提供自动化接口,提供整个数据库的地方能够更好的去探求知识.知识蕴含理论,理论可以掌握群众<br>最后一个是严肃文本.在我在高中的时候,为了更加完美地写我的作文.我看了很长时间外交部发言人发言和人民日报.后来又看了很长时间的纽约时报,我很习惯这些严肃文本.习惯阅读,也习惯产出</p><hr><p>0310一周年:命运狂妄的画下了浓墨重彩的一笔</p><hr><p>或者是整个高中的总结</p><blockquote><p>来了,遇见了一些人,发生了一些事情走了</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;TimeLine 一年好景君须记&lt;br&gt;最是橙黄橘绿时 TimeLine&lt;/p&gt;
+&lt;p&gt;这个页面主要是一些记录和思考,显而易见并没有那么的严谨  &lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;且将新火试新茶,诗酒趁年华  &lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;由于我没有专门查阅资料,所以这个故事并没那么的</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://bit-dust.github.io/2021/08/21/hello-world/"/>
+    <id>https://bit-dust.github.io/2021/08/21/hello-world/</id>
+    <published>2021-08-21T12:45:57.998Z</published>
+    <updated>1985-10-26T08:15:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
